@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.leftnav {
+  background-color: #e2e8f0;
+  padding: 15px;
+}
+.laftulsty {
+  list-style: none;
+}
+.contentcont {
+  background-color: #f1f5f9;
+  padding: 15px;
+}
+.rightnavbar {
+  background-color: #f1f5f9;
+  padding: 15px;
+}
+.adacontad {
+  height: 100px;
+  width: 100px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bodycontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
